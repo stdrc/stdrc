@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Richard Chien.
+I'm **Richard Chien**.
 
 🤖 I was working on chatbot development, and created some popular projects like [cqhttp](https://github.com/richardchien/coolq-http-api), [nonebot](https://github.com/nonebot/nonebot) and [cqcppsdk](https://github.com/cqmoe/cqcppsdk).<br>
 🏫 I'm currently studying for an MSE degree at Institute of Parallel And Distributed Systems (IPADS), Shanghai Jiao Tong University.<br>
