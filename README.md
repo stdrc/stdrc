@@ -15,13 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm **Richard Chien**.
+I'm **Richard Chien**. People also call me **RC**.
 
 #### About Me
 
-- 🤖 I was working on chatbot development, and created some popular projects like [cqhttp](https://github.com/kyubotics/coolq-http-api), [nonebot](https://github.com/nonebot/nonebot) and [cqcppsdk](https://github.com/kyubotics/cqcppsdk).
-- 🏫 I'm currently studying for an MSE degree at Institute of Parallel And Distributed Systems (IPADS), SJTU.
-- 💻 My interest is now in Operating Systems, especially Microkernels and Virtualization.
+- 🤖 I'm the author of several popular chatbot projects like [CQHTTP](https://github.com/kyubotics/coolq-http-api), [NoneBot](https://github.com/nonebot/nonebot) and [CQCPPSDK](https://github.com/kyubotics/cqcppsdk)
+- 🏫 I'm currently studying for an MSE degree at [Institute of Parallel And Distributed Systems (IPADS)](https://ipads.se.sjtu.edu.cn)
+- 💻 My interest is now in Operating Systems, especially Microkernels and Virtualization
+- 💡 My blog: https://stdrc.cc
+- 📄 My curriculum vitae: https://stdrc.me
+- ☕️ Buy me a coffee if you want: https://afdian.net/@richardchien
 
 #### Navigation
 
@@ -29,7 +32,7 @@ Here is a navigation for my GitHub organizations:
 
 Account/Organization | What kind of projects are in it
 --- | ---
-**[richardchien](https://github.com/richardchien?tab=repositories)** | Recent projects that are been used or actively maintained.
+**[richardchien](https://github.com/richardchien?tab=repositories)** | Recent personal projects that are been used or actively maintained.
 **[nonebot](https://github.com/nonebot)** | NoneBot and its accessories.
 **[botuniverse](https://github.com/botuniverse)** | OneBot and its accessories.
 **[kyubotics](https://github.com/kyubotics)** | Other old chatbot-related projects. CQHTTP and CQCPPSDK have been moved here.
