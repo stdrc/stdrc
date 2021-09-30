@@ -24,7 +24,7 @@ I'm **Richard Chien**. People also call me **RC**.
 - 💻 My interest is now in Operating Systems, especially Microkernels and Virtualization
 - 💡 My blog: https://stdrc.cc
 - 📄 My curriculum vitae: https://stdrc.me
-- ☕️ Buy me a coffee if you want: https://afdian.net/@richardchien
+- ☕️ Buy me a coffee: https://afdian.net/@richardchien
 
 #### Navigation
 
