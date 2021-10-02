@@ -19,7 +19,7 @@ I'm **Richard Chien**. People also call me **RC**.
 
 #### About Me
 
-- 🤖 I'm the author of several popular chatbot projects like [CQHTTP](https://github.com/kyubotics/coolq-http-api), [NoneBot](https://github.com/nonebot/nonebot) and [CQCPPSDK](https://github.com/kyubotics/cqcppsdk).
+- 🤖 I'm the author of several popular chatbot projects including [CQHTTP](https://github.com/kyubotics/coolq-http-api), [NoneBot](https://github.com/nonebot/nonebot) and [CQCPPSDK](https://github.com/kyubotics/cqcppsdk).
 - 🏫 I'm currently studying for an MSE degree at [Institute of Parallel And Distributed Systems (IPADS)](https://ipads.se.sjtu.edu.cn).
 - 💻 My interest is now in Operating Systems, especially Microkernels and Virtualization.
 - 💡 My blog: https://stdrc.cc
