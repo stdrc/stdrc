@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm **Richard Chien**. People also call me **RC**.
+I'm **Richard Chien**, a.k.a. **RC**.
 
 #### About Me
 
