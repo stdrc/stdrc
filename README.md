@@ -19,10 +19,12 @@ I'm **Richard Chien**, a.k.a. **RC**.
 
 #### About Me
 
-- 🤖 I'm the author of several popular chatbot projects including [CQHTTP](https://github.com/kyubotics/coolq-http-api), [NoneBot](https://github.com/nonebot/nonebot) and [CQCPPSDK](https://github.com/kyubotics/cqcppsdk).
-- 🏫 I'm currently studying for an MSE degree at [Institute of Parallel And Distributed Systems (IPADS)](https://ipads.se.sjtu.edu.cn).
-- 💡 My blog: https://stdrc.cc
-- 📄 My curriculum vitae: https://stdrc.me
+- 🤖 Author of several popular chatbot projects including [CQHTTP](https://github.com/kyubotics/coolq-http-api), [NoneBot](https://github.com/nonebot/nonebot) and [CQCPPSDK](https://github.com/kyubotics/cqcppsdk).
+- 🏫 Master student at [Institute of Parallel And Distributed Systems (IPADS)](https://ipads.se.sjtu.edu.cn), SJTU.
+- 🛠 Database kernel engineer intern at [Singularity Data](https://github.com/singularity-data).
+- 💡 Blog: https://stdrc.cc
+- 📄 Curriculum vitae: https://stdrc.me
+- 📚 Books I read: https://jump.stdrc.cc/book
 - ☕️ Buy me a coffee: https://afdian.net/@richardchien
 
 #### Navigation
