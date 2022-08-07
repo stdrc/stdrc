@@ -20,6 +20,7 @@ I'm **Richard Chien**, a.k.a. **RC**.
 #### About Me
 
 - 🤖 Author of several popular chatbot projects including [CQHTTP](https://github.com/kyubotics/coolq-http-api), [NoneBot](https://github.com/nonebot/nonebot) and [CQCPPSDK](https://github.com/kyubotics/cqcppsdk).
+- 📝 Maintainer of the [OneBot](https://github.com/botuniverse/onebot) chatbot API standard.
 - 🏫 Master student at [Institute of Parallel And Distributed Systems (IPADS)](https://ipads.se.sjtu.edu.cn), SJTU.
 - 🛠 Database kernel engineer intern at [Singularity Data](https://github.com/singularity-data).
 - 💡 Blog: https://stdrc.cc
