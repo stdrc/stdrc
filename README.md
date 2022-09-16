@@ -25,6 +25,7 @@ I'm **Richard Chien**, a.k.a. **RC**.
 - 🛠 Database kernel engineer intern at [RisingWave Labs](https://github.com/risingwavelabs) (originally Singularity Data).
 - 💡 Blog: https://stdrc.cc
 - 📄 Curriculum vitae: https://stdrc.me
+- 📇 LinkedIn: https://www.linkedin.com/in/richard-chien/
 - 📚 Books I read: https://jump.stdrc.cc/book
 - ☕️ Buy me a coffee: https://afdian.net/@richardchien
 
