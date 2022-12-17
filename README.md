@@ -24,10 +24,9 @@ I'm **Richard Chien**, a.k.a. **RC**.
 - 🏫 Master student at [Institute of Parallel And Distributed Systems (IPADS)](https://ipads.se.sjtu.edu.cn), SJTU.
 - 🛠 Database kernel engineer intern at [RisingWave Labs](https://github.com/risingwavelabs) (originally Singularity Data).
 - 💡 Blog: https://stdrc.cc
-- 📄 Curriculum vitae: https://stdrc.me
-- 📇 LinkedIn: https://www.linkedin.com/in/richard-chien/
-- 📚 Books I read: https://jump.stdrc.cc/book
-- ☕️ Buy me a coffee: https://afdian.net/@richardchien
+- 📇 LinkedIn: https://jump.stdrc.cc/linkedin
+- 📚 Books I read: https://jump.stdrc.cc/books
+- ☕️ Buy me a coffee: https://jump.stdrc.cc/donate
 
 #### Navigation
 
@@ -35,7 +34,7 @@ Here is a navigation for my GitHub organizations:
 
 Account/Organization | What kind of projects are in it
 --- | ---
-**[richardchien](https://github.com/richardchien?tab=repositories)** | Recent personal projects that are been used or actively maintained.
+**[richardchien](https://github.com/richardchien?tab=repositories)** | Recent personal projects that are being used or actively maintained.
 **[nonebot](https://github.com/nonebot)** | NoneBot and its accessories.
 **[botuniverse](https://github.com/botuniverse)** | OneBot and its accessories.
 **[kyubotics](https://github.com/kyubotics)** | Other old chatbot-related projects. CQHTTP and CQCPPSDK have been moved here.
