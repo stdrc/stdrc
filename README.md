@@ -19,16 +19,18 @@ I'm **Richard Chien**, a.k.a. **RC**.
 
 #### About Me
 
-- 🛠 Database kernel engineer at [RisingWave Labs](https://github.com/risingwavelabs).
-- 🎓 Master at [Institute of Parallel And Distributed Systems (IPADS)](https://ipads.se.sjtu.edu.cn), SJTU.
-- 🤖 Authored several popular chatbot projects including [CQHTTP](https://github.com/kyubotics/coolq-http-api), [NoneBot](https://github.com/nonebot/nonebot).
-- 📝 Initiated and maintaining [OneBot](https://github.com/botuniverse/onebot) chatbot API standard.
+- 🛠 Database kernel engineer at [RisingWave Labs](https://github.com/risingwavelabs). (2022~now)
+- 🎓 Master at [Institute of Parallel And Distributed Systems (IPADS)](https://ipads.se.sjtu.edu.cn), SJTU. (2020~2023)
+- 🤖 Authored several popular chatbot projects including [CQHTTP](https://github.com/kyubotics/coolq-http-api), [NoneBot](https://github.com/nonebot/nonebot). (2016~2020)
+- 📝 Initiated and maintaining [OneBot](https://github.com/botuniverse/onebot) chatbot API standard. (2020~now)
+- ⌨️ Wrote my first computer program in 5th grade. (2008)
 
 #### Links
 
-- 💡 Blog: https://stdrc.cc
+- 💡 Blog (Chinese): https://stdrc.cc
+- 🎞️ Photographs (Chinese): https://shots.stdrc.cc
 - 📇 LinkedIn: https://jump.stdrc.cc/linkedin
-- 📚 Books I read: https://jump.stdrc.cc/books
+- 📚 Books I read (Chinese): https://jump.stdrc.cc/books
 - ☕️ Buy me a coffee: https://jump.stdrc.cc/donate
 
 #### Navigation
