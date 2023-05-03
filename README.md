@@ -21,7 +21,7 @@ I'm **Richard Chien**, a.k.a. **RC**.
 
 - 🛠 Database kernel engineer at [RisingWave Labs](https://github.com/risingwavelabs). (2022~now)
 - 🎓 Master at [Institute of Parallel And Distributed Systems (IPADS)](https://ipads.se.sjtu.edu.cn), SJTU. (2020~2023)
-- 🤖 Created several popular chatbot projects including [CQHTTP](https://github.com/kyubotics/coolq-http-api), [NoneBot](https://github.com/nonebot/nonebot). (2016~2020)
+- 🤖 Created several popular chatbot projects including [CQHTTP](https://github.com/kyubotics/coolq-http-api) and [NoneBot](https://github.com/nonebot/nonebot). (2016~2020)
 - 📝 Initiated and maintaining [OneBot](https://github.com/botuniverse/onebot) chatbot API standard. (2020~now)
 - ⌨️ Wrote my first computer program in 5th grade. (2008)
 
