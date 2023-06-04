@@ -28,7 +28,6 @@ I'm **Richard Chien**, a.k.a. **RC**.
 #### Links
 
 - 💡 Blog (Chinese): https://stdrc.cc
-- 🎞️ Photographs (Chinese): https://shots.stdrc.cc
 - 💬 Reviews (Chinese): https://reviews.stdrc.cc
 - 📇 LinkedIn: https://jump.stdrc.cc/linkedin
 - ☕️ Buy me a coffee: https://jump.stdrc.cc/donate
