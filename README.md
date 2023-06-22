@@ -30,7 +30,6 @@ I'm **Richard Chien**, a.k.a. **RC**.
 - 💡 Blog (Chinese): https://stdrc.cc
 - 💬 Reviews (Chinese): https://reviews.stdrc.cc
 - 📇 LinkedIn: https://jump.stdrc.cc/linkedin
-- ☕️ Buy me a coffee: https://jump.stdrc.cc/donate
 
 #### Navigation
 
@@ -38,9 +37,9 @@ Here is a navigation for my GitHub organizations:
 
 Account/Organization | What kind of projects are in it
 --- | ---
-**[richardchien](https://github.com/richardchien?tab=repositories)** | Recent personal projects that are being used or actively maintained.
+**[stdrc](https://github.com/stdrc?tab=repositories)** | Recent personal projects that are being used or actively maintained.
 **[nonebot](https://github.com/nonebot)** | NoneBot and its accessories.
 **[botuniverse](https://github.com/botuniverse)** | OneBot and its accessories.
 **[kyubotics](https://github.com/kyubotics)** | Other old chatbot-related projects. CQHTTP and CQCPPSDK have been moved here.
 **[verilab](https://github.com/verilab)** | Static blog generators (BlogA, VeriPress and PurePress) and their accessories.
-**[richardchien-archive](https://github.com/richardchien-archive)** | Archived projects that don't belong to any of categories above.
+**[richardchien](https://github.com/richardchien)** | Archived projects that don't belong to any of categories above.
