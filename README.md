@@ -39,7 +39,7 @@ Account/Organization | What kind of projects are in it
 --- | ---
 **[stdrc](https://github.com/stdrc?tab=repositories)** | Recent personal misc projects that are being used or actively maintained.
 **[verilab](https://github.com/verilab)** | Static blog generators (BlogA, VeriPress and PurePress) and their accessories.
-**[ringohoho](https://github.com/ringohoho)** | iOS/macOS/... apps, frameworks, libraries, etc.
+**[ringohoho](https://github.com/ringohoho)** | Apple ecosystem things, mainly iOS/macOS apps.
 **[nonebot](https://github.com/nonebot)** | NoneBot and its accessories.
 **[botuniverse](https://github.com/botuniverse)** | OneBot and its accessories.
 **[kyubotics](https://github.com/kyubotics)** | Other old chatbot-related projects. CQHTTP and CQCPPSDK have been moved here.
