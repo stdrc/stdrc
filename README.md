@@ -27,9 +27,9 @@ I'm **Richard Chien**, a.k.a. **RC**.
 
 #### Links
 
+- 📇 Resume: https://stdrc.cc/resume.pdf
 - 💡 Blog (Chinese): https://stdrc.cc
 - 💬 Reviews (Chinese): https://reviews.stdrc.cc
-- 📇 LinkedIn: https://jump.stdrc.cc/linkedin
 
 #### Navigation
 
