@@ -28,7 +28,7 @@ I'm **Richard Chien**, a.k.a. **RC**.
 #### Links
 
 - 💡 Blog (Chinese): https://stdrc.cc
-- 💬 Reviews (Chinese): https://reviews.stdrc.cc
+- 💬 Book/movie Reviews (Chinese): https://reviews.stdrc.cc
 - 📇 LinkedIn: https://www.linkedin.com/in/stdrc/
 
 #### Navigation
@@ -37,8 +37,8 @@ Here is a navigation for all GitHub accounts/organizations I created:
 
 Account/Organization | What kind of projects are in it
 --- | ---
-**[stdrc](https://github.com/stdrc?tab=repositories)** | Recent personal misc projects that are being used or actively maintained.
-**[verilab](https://github.com/verilab)** | Static blog generators (BlogA, VeriPress and PurePress) and their accessories.
+**[stdrc](https://github.com/stdrc?tab=repositories)** | Recent personal projects that are being used or actively maintained.
+**[verilab](https://github.com/verilab)** | Themes of PurePress, and old static blog generators (BlogA and VeriPress).
 **[ringohoho](https://github.com/ringohoho)** | Apple ecosystem things, mainly iOS/macOS apps.
 **[nonebot](https://github.com/nonebot)** | NoneBot and its accessories.
 **[botuniverse](https://github.com/botuniverse)** | OneBot and its accessories.
