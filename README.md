@@ -32,12 +32,6 @@ I'm **Richard Chien**, a.k.a. **RC**.
 - ⌨️ Wrote my first computer program in 5th grade. (2008)
 -->
 
-#### Links
-
-- 💡 Blog (Chinese): https://stdrc.cc
-- 💬 Book & movie reviews (Chinese): https://reviews.stdrc.cc
-- 📇 LinkedIn: https://www.linkedin.com/in/stdrc/
-
 #### Navigation
 
 Here is a navigation for all GitHub accounts/organizations I created:
