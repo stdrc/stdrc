@@ -21,7 +21,7 @@ I'm **Richard Chien**, a.k.a. **RC**.
 
 - 🤖 Building AI agent infra [@moonshotai](https://github.com/moonshotai). (2025~present)
 - 🛠 Previously building streaming database [@risingwavelabs](https://github.com/risingwavelabs). (2022~2025)
-- 🎓 Previously developing microkernel operating system and hypervisor [@SJTU-IPADS](https://github.com/SJTU-IPADS). (2020~2023)
+- 🎓 Previously building microkernel operating system and hypervisor [@SJTU-IPADS](https://github.com/SJTU-IPADS). (2020~2023)
 - 🤖 Created [CQHTTP](https://github.com/kyubotics/coolq-http-api) (which evolved into [OneBot](https://github.com/botuniverse/onebot) later), [NoneBot](https://github.com/nonebot/nonebot) and their ecosystem. (2016~2020)
 - ⌨️ Wrote my first computer program in 5th grade. (2008)
 
