@@ -29,4 +29,4 @@ I'm **Richard Chien**, a.k.a. **RC** or **stdrc**.
 
 ### Find Me
 
-[X](https://x.com/istdrc) · [LinkedIn](https://linkedin.com/in/stdrc) · [Blog](https://stdrc.cc) · [Homepage](https://i.stdrc.cc)
+[X](https://x.com/istdrc) · [LinkedIn](https://linkedin.com/in/stdrc) · [Telegram](https://t.me/istdrc) · [Blog](https://stdrc.cc) · [Homepage](https://i.stdrc.cc)
