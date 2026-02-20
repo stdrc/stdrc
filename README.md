@@ -1,48 +1,32 @@
-### Hi there 👋
+## Hi, I'm RC 👋
 
-<!--
-**richardchien/richardchien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Richard Chien**, a.k.a. **RC** or **stdrc**.
 
-Here are some ideas to get you started:
+**I build ecosystems, not just software.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Building Now
 
-I'm **Richard Chien**, a.k.a. **RC**.
+- 🤖 **[kimi-cli](https://github.com/MoonshotAI/kimi-cli)** - Opinionated AI coding agent, AI shell and agent harness
+- 🧠 **[kosong](https://github.com/MoonshotAI/kimi-cli/tree/main/packages/kosong)** - LLM abstraction layer designed for building modern agent applications
+- 🖥️ **[pykaos](https://github.com/MoonshotAI/kimi-cli/tree/main/packages/kaos)** - OS abstraction layer for controlled agent access to file systems and processes
+- 🧩 **[kimi-agent-sdk](https://github.com/MoonshotAI/kimi-agent-sdk)** - SDK for building AI agents on top of Kimi CLI's agent harness
+- 🔐 **[agent-vault](https://github.com/botiverse/agent-vault)** - Secret-aware file I/O layer for AI agents
 
-#### About Me
+### Side Projects for Fun
 
-- 🤖 Building [Kimi CLI](https://github.com/MoonshotAI/kimi-cli) and AI agent infra [@moonshotai](https://github.com/moonshotai). (2025~present)
-- 🛠 Previously building streaming database [@risingwavelabs](https://github.com/risingwavelabs). (2022~2025)
-- 🎓 Previously building microkernel operating system and hypervisor [@SJTU-IPADS](https://github.com/SJTU-IPADS). (2020~2023)
-- 🤖 Created [CQHTTP](https://github.com/kyubotics/coolq-http-api) (which evolved into [OneBot](https://github.com/botuniverse/onebot) later), [NoneBot](https://github.com/nonebot/nonebot) and their ecosystem. (2016~2020)
-- ⌨️ Wrote my first computer program in 5th grade. (2008)
+- 🎨 **[chinese-colors](https://colors.app.stdrc.cc/)** - A collection of traditional Chinese color schemes
+- 💬 **[hakimi](https://github.com/stdrc/hakimi)** - Chat with Kimi CLI via Telegram/Slack/Feishu to remotely control your computer
+- 🌲 **[tldr-vscode](https://github.com/stdrc/tldr-vscode)** - VSCode extension for viewing code structure at a glance
+- 🧵 **[longshot](https://longshot.app.stdrc.cc/)** - Smart screenshot stitching tool
+- ✒️ **[purepress](https://github.com/stdrc/purepress)** - Simple and elegant static blog generator
 
-<!--
-- 🛠 Database kernel engineer at [RisingWave Labs](https://github.com/risingwavelabs). (2022~now)
-- 🎓 Master at [Institute of Parallel And Distributed Systems (IPADS)](https://ipads.se.sjtu.edu.cn), SJTU. (2020~2023)
-- 🤖 Created several popular chatbot projects including [CQHTTP](https://github.com/kyubotics/coolq-http-api) and [NoneBot](https://github.com/nonebot/nonebot). (2016~2020)
-  - 📝 Initiated and maintaining [OneBot](https://github.com/botuniverse/onebot) chatbot API standard. (2020~now)
-- ⌨️ Wrote my first computer program in 5th grade. (2008)
--->
+### Previously
 
-#### Navigation
+- 🌊 Core contributor to **[RisingWave](https://github.com/risingwavelabs/risingwave)** - PostgreSQL-compatible streaming database in Rust. (2022~2025)
+- 🎓 OS kernel & hypervisor developer, master student at **[SJTU IPADS](https://ipads.se.sjtu.edu.cn)**. (2020~2023)
+- 🤖 Creator & maintainer of **[NoneBot](https://github.com/nonebot/nonebot)** - Python chatbot framework widely used in the China dev community, **[OneBot](https://github.com/botuniverse/onebot)** - the chatbot API standard evolved from my earlier [CQHTTP](https://github.com/kyubotics/coolq-http-api) project, and their ecosystems. (2016~2020)
+- ⌨️ Wrote my first program in 5th grade. Haven't stopped since. (2008~)
 
-Here is a navigation for all GitHub accounts/organizations I created:
+### Find Me
 
-Account/Organization | What kind of projects are in it
---- | ---
-**[stdrc](https://github.com/stdrc?tab=repositories)** | Recent personal projects that are being used or actively maintained.
-**[verilab](https://github.com/verilab)** | Themes of PurePress, and old static blog generators (BlogA and VeriPress).
-**[ringohoho](https://github.com/ringohoho)** | Apple ecosystem things, mainly iOS/macOS apps.
-**[nonebot](https://github.com/nonebot)** | NoneBot and its accessories.
-**[botuniverse](https://github.com/botuniverse)** | OneBot and its accessories.
-**[kyubotics](https://github.com/kyubotics)** | Other old chatbot-related projects. CQHTTP and CQCPPSDK have been moved here.
-**[richardchien](https://github.com/richardchien)** | Archived projects that don't belong to any of categories above.
+[X](https://x.com/istdrc) · [LinkedIn](https://linkedin.com/in/stdrc) · [Blog](https://stdrc.cc) · [Homepage](https://i.stdrc.cc)
