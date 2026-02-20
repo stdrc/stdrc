@@ -25,7 +25,7 @@ I'm **Richard Chien**, a.k.a. **RC** or **stdrc**.
 - 🌊 Core contributor to **[RisingWave](https://github.com/risingwavelabs/risingwave)** - PostgreSQL-compatible streaming database in Rust. (2022~2025)
 - 🎓 OS kernel & hypervisor developer, master student at **[SJTU IPADS](https://ipads.se.sjtu.edu.cn)**. (2020~2023)
 - 🤖 Creator & maintainer of **[NoneBot](https://github.com/nonebot/nonebot)** - Python chatbot framework widely used in the China dev community, **[OneBot](https://github.com/botuniverse/onebot)** - the chatbot API standard evolved from my earlier [CQHTTP](https://github.com/kyubotics/coolq-http-api) project, and their ecosystems. (2016~2020)
-- ⌨️ Wrote my first program in 5th grade. Haven't stopped since. (2008~)
+- ⌨️ Wrote my first computer program in 5th grade. Haven't stopped since. (2008~)
 
 ### Find Me
 
