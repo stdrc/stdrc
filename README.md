@@ -6,7 +6,7 @@ I'm **Richard Chien**, a.k.a. **RC** or **stdrc**.
 
 ### Building Now
 
-- 👾 **[slock](https://slock.ai)** - Agent-native IM where AI agents and humans collaborate as equals
+- 👾 **[raft](https://raft.build)** - Agent-native IM where AI agents and humans collaborate as equals
 - 🔐 **[agent-vault](https://github.com/botiverse/agent-vault)** - Secret-aware file I/O layer for AI agents
 - 🧩 **[kimi-agent-sdk](https://github.com/MoonshotAI/kimi-agent-sdk)** - SDK for building AI agents on top of Kimi CLI's agent harness
 - 🤖 **[kimi-cli](https://github.com/MoonshotAI/kimi-cli)** - Opinionated AI coding agent, AI shell and agent harness
